@@ -1,0 +1,28 @@
+{
+    "reserva":[
+        {
+            "reserva_id": 1,
+            "id_usuario": 1,
+            "fecha_inicio": "2021-06-01 08:00:00",
+            "fecha_fin": "2021-06-01 09:00:00",
+            "resurso_id": 1,
+            "Estado": "Activo"
+        },
+        {
+            "reserva_id": 2,
+            "id_usuario": 2,
+            "fecha_inicio": "2021-06-01 08:00:00",
+            "fecha_fin": "2021-06-01 09:00:00",
+            "resurso_id": 2,
+            "Estado": "Activo"
+        },
+        {
+            "reserva_id": 3,
+            "id_usuario": 3,
+            "fecha_inicio": "2021-06-01 08:00:00",
+            "fecha_fin": "2021-06-01 09:00:00",
+            "resurso_id": 3,
+            "Estado": "Activo"
+        }
+    ]
+}

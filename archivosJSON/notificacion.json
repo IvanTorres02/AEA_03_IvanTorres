@@ -1,0 +1,32 @@
+{
+    "notificacion": [
+        {
+            "id_usuario": 1,
+            "notificacion_id": 1,
+            "reserva_id": 1,
+            "recurso_id": 1,
+            "mensaje": "Su reserva ha sido confirmada"
+        },
+        {
+            "id_usuario": 2,
+            "notificacion_id": 2,
+            "reserva_id": 2,
+            "recurso_id": 2,
+            "mensaje": "Su reserva ha sido confirmada"
+        },
+        {
+            "id_usuario": 3,
+            "notificacion_id": 3,
+            "reserva_id": 3,
+            "recurso_id": 3,
+            "mensaje": "Su reserva ha sido confirmada"
+        },
+        {
+            "id_usuario": 4,
+            "notificacion_id": 4,
+            "reserva_id": 4,
+            "recurso_id": 4,
+            "mensaje": "Su reserva ha sido confirmada"
+        }
+    ]
+}

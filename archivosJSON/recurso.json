@@ -1,0 +1,30 @@
+{
+    "recursos":[
+        {
+            "resurso_id": 1,
+            "tipo":"Sala",
+            "Estado": "Activo"
+        },
+        {
+            "resurso_id": 2,
+            "tipo":"Sala",
+            "Estado": "Activo"
+        },
+        {
+            "resurso_id": 3,
+            "tipo":"Sala",
+            "Estado": "Activo"
+        },
+        {
+            "resurso_id": 4,
+            "tipo":"Sala",
+            "Estado": "Activo"
+        },
+        {
+            "resurso_id": 5,
+            "tipo":"Sala",
+            "Estado": "Activo"
+        }
+    ]
+   
+}
